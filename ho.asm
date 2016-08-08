@@ -7,7 +7,7 @@ section .data
 	l2: db 'ola',0xa
 	l: equ $-l2
 	
-
+Bernardo
 ;----------------------------------------------------
 	
 section .text 
